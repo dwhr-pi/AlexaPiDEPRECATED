@@ -1,3 +1,7 @@
+The Simplest Way to Build A Raspberry Pi-Powered Amazon Echo
+https://github.com/alexa-pi/
+https://lifehacker.com/the-simplest-way-to-build-a-raspberry-pi-powered-amazon-1794218212
+
 # AlexaPi
 
 ## Use the new AlexaPi https://github.com/alexa-pi/AlexaPi instead.
